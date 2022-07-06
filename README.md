@@ -14,3 +14,6 @@ When the entered detail is correct
 
 <img width="507" alt="Screenshot (161)" src="https://user-images.githubusercontent.com/88208046/177506428-2e981935-d23c-4098-88f9-665c1ccc2625.png">
 
+To view Detail
+
+<img width="372" alt="Screenshot (162)" src="https://user-images.githubusercontent.com/88208046/177506703-fe02b5e2-51d8-4805-941d-04133a308406.png">
