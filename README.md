@@ -6,6 +6,6 @@ Once the data is inserted successfully, The application should also have the opt
 
 <img width="374" alt="Mainpage" src="https://user-images.githubusercontent.com/88208046/177503730-45bc7486-651e-4fea-b71d-c9c03758e1b9.PNG">
 
-![Screenshot (160)](https://user-images.githubusercontent.com/88208046/177504260-b3af70b6-8b29-4e30-8977-a43bc30d1086.png)
+If the entered Detail is wrong 
 
-
+<img width="524" alt="Screenshot (160)" src="https://user-images.githubusercontent.com/88208046/177505897-04387301-e9a0-4e43-8a18-def95e89d191.png">
