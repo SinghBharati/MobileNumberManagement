@@ -9,3 +9,8 @@ Once the data is inserted successfully, The application should also have the opt
 If the entered Detail is wrong 
 
 <img width="524" alt="Screenshot (160)" src="https://user-images.githubusercontent.com/88208046/177505897-04387301-e9a0-4e43-8a18-def95e89d191.png">
+
+When the entered detail is correct
+
+<img width="507" alt="Screenshot (161)" src="https://user-images.githubusercontent.com/88208046/177506428-2e981935-d23c-4098-88f9-665c1ccc2625.png">
+
